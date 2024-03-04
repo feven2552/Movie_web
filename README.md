@@ -1,1 +1,1 @@
-Hello This a movie app using 
+Hello This a movie app using  javascript api
