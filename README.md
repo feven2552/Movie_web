@@ -33,9 +33,7 @@ To run this project locally, you'll need to follow these steps:
 - TMDB API
 
 ## Screenshots
-![Capture1](https://github.com/feven2552/Movie_web/assets/93426602/db28b88d-4a94-440b-998f-7309b0b844c1)
-
-![Popular Movies](/path/to/screenshot1.png)
+![Capture1](https://github.com/feven2552/Movie_web/assets/93426602/db28b88d-4a94-440b-998f-7309b0b844c1)](/path/to/screenshot1.png)
 *Popular Movies Overview*
 
 ![Filtered by Genre](/path/to/screenshot2.png)
