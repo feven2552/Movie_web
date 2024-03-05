@@ -1,4 +1,4 @@
-# Movie Discovery App
+Movie Discovery App
 
 Discover the most popular movies with our Movie Discovery App. This web application leverages the powerful TMDB API to fetch and display a wide range of movies, allowing users to search for movies by name or filter them by genre. Dive into the world of cinema with ease and find your next favorite movie today!
 
@@ -34,12 +34,10 @@ To run this project locally, you'll need to follow these steps:
 
 ## Screenshots
 
-![Popular Movies](/path/to/screen![Uploading Capture1.PNG…]()
-shot1.png)
+![Capture1](https://github.com/feven2552/Movie_web/assets/93426602/2d824a0c-1a80-4dbe-acd6-52f4272a7593)
 *Popular Movies Overview*)
 
-
-![Filtered by Genre](/path/to/screenshot2.png)
+![Capture2](https://github.com/feven2552/Movie_web/assets/93426602/0f3b97f5-00f4-4554-a6b9-b62524962d4e)
 *Movies Filtered by Genre*
 
 ## API Key
