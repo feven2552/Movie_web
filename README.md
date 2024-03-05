@@ -35,7 +35,7 @@ To run this project locally, you'll need to follow these steps:
 ## Screenshots
 
 ![Capture1](https://github.com/feven2552/Movie_web/assets/93426602/2d824a0c-1a80-4dbe-acd6-52f4272a7593)
-*Popular Movies Overview*)
+*Popular Movies Overview*
 
 ![Capture2](https://github.com/feven2552/Movie_web/assets/93426602/0f3b97f5-00f4-4554-a6b9-b62524962d4e)
 *Movies Filtered by Genre*
@@ -63,10 +63,5 @@ Contributions are welcome! If you'd like to contribute:
 - TMDB for providing the API to fetch movie data.
 - All movie data and images are credited to their respective owners as provided by TMDB.
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
 
 ✨ Happy movie discovering! ✨
