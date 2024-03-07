@@ -1,4 +1,4 @@
-Movie Discovery App
+## Movie Discovery App
 
 Discover the most popular movies with our Movie Discovery App. This web application leverages the powerful TMDB API to fetch and display a wide range of movies, allowing users to search for movies by name or filter them by genre. Dive into the world of cinema with ease and find your next favorite movie today!
 
